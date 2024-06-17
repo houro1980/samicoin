@@ -1,0 +1,2 @@
+# samicoin
+New coin
