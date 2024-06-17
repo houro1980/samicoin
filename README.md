@@ -16,4 +16,4 @@ To get started with Samicon Coin, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/samicoin.git
+   git clone [https://github.com/houro1980/samicoin.git](https://github.com/houro1980/samicoin.git)
